@@ -1,0 +1,11 @@
+button{
+  background-color: aliceblue;
+  color: black;
+  top: 40px;
+  left: 40px;
+  border: none;
+}
+button:hover{
+  background-color: red;
+  color: white;
+}
